@@ -2,7 +2,10 @@
 * email
 * handle
 * password
-* carrer ->generat a list
+* carrer type -> many to many relationship
 ## Relational data
-* Followers
-* Posts
+* Followers one to many relationship
+* Posts one to many relationship
+
+# Carrer Type
+* carrer name (e.g musician)
