@@ -8,4 +8,5 @@
 * Posts one to many relationship
 
 # Carrer Type
-* carrer name (e.g musician)
+* carrer name (e.g musician) 
+ * should users be able to create a new one?
