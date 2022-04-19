@@ -47,7 +47,7 @@ jwt = JWTManager(app)
 
 #Link the app object to the Movies database 
 db.init_app(app)
-migrate = Migrate(app,db)
+migrate = Migrate(app, db)
 
 app.app_context().push()
 #Create the databases
